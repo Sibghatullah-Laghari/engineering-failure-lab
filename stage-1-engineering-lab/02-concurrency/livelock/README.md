@@ -21,5 +21,4 @@ TODO
 TODO
 ## Regression Test
 TODO
-## Engineering Lesson
-TODO
+
